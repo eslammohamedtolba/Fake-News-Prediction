@@ -3,6 +3,8 @@ This project is a web-based application built using FastAPI for detecting fake n
 It uses various machine learning models to classify news articles as either "Fake News" or "Real News" based on the text content. 
 The best-performing model, Gradient Boosting Classifier, is used for predictions in the deployed application.
 
+![Image about the final project](<Fake News Prediction.png>)
+
 ## Prerequisites
 To run this project, you need to have the following dependencies installed:
 
